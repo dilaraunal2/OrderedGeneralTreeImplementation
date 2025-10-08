@@ -345,6 +345,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Implementation follows best practices for generic Java collections
 - Tree traversal algorithms follow classic computer science approaches
 
----
-
-Made with ☕ by [Your Name]
